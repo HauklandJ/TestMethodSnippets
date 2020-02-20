@@ -1,6 +1,10 @@
 # TestMethodSnippets
 Cope snippets for test methods for C#, Visual studio.
 
+![](use.gif)
+
+
+
 The snippets follow the Arrange-Act-Assert pattern:
 
 	Arrange: set up the test
