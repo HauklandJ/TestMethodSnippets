@@ -8,13 +8,27 @@
    <Shortcut>tmet</Shortcut>
   </Header>
     <Snippet>
+	    <Declarations>
+            <Literal>
+                <ID>access_modifier</ID>
+                <Default>public</Default>
+            </Literal>
+            <Literal>
+                <ID>return_type</ID>
+                <Default>void</Default>
+            </Literal>
+            <Literal>
+                <ID>name</ID>
+                <Default>New_test</Default>
+            </Literal>
+        </Declarations>
       <Code Language="CSharp">
         <![CDATA[
 		[TestMethod]
-        public void Test$end$()
+        $access_modifier$ $return_type$ $name$()
         {
             // -- Arrange
-
+			$end$
 
             //-- Act
 
