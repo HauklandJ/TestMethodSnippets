@@ -1,5 +1,11 @@
 # TestMethodSnippets
-Cope snippets for test methods for C#, Visual studio
+Cope snippets for test methods for C#, Visual studio.
+
+The snippets follow the Arrange-Act-Assert pattern:
+
+	Arrange: set up the test
+	Act: Access the member being tested
+	Assert: Determine the result
 
 Add the snippets in Visual Studio by using the Code Snippets Manager. 
 
