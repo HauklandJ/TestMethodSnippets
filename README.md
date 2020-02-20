@@ -12,7 +12,7 @@ Add the snippets to **My Code Snippets**.
 The shortcut for the generic test method snippet is `tmet`, the following is generated:
 ```CSharp
 	[TestMethod]
-        public void Test()
+        public void New_test()
         {
             // -- Arrange
 
@@ -27,7 +27,7 @@ The shortcut for the generic test method snippet is `tmet`, the following is gen
   
   ```CSharp
 	    [TestMethod]
-        public void Test()
+        public void New_test()
         {
             // -- Arrange
 
