@@ -40,4 +40,4 @@ The shortcut for the generic test method snippet is `tmet`, the following is gen
          }
   ```
   
-  Your cursor is placed at the end of `Test`.
+  Your cursor is placed at the acces modifier which is `public` by default, tab to move to the return type which is `void` by default and the method name which is `New_test` by default. Hit enter to be placed under `Arrange`.
