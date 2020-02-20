@@ -1,7 +1,7 @@
 # TestMethodSnippets
 Cope snippets for test methods for C#, Visual studio.
 
-![](use.gif)
+![](usage.gif)
 
 
 
